@@ -4,3 +4,11 @@ touch.coffee
 Evans " Forked " Your fluffy-giggle Repository
 
 Evans " git cloned " Your fluffy-giggle Repository
+
+Evans added a connection between forked Repository and original master fluffy-giggle Repository by notypicalus
+git remote add notypicalus git://github.com/notypicalus/fluffy-giggle
+git remote add fluffy-giggle git://github.com/notypicalus/fluffy-giggle
+
+evans edited this file
+
+
