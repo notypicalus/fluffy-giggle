@@ -1,5 +1,6 @@
 touch.coffee
 
 
+Evans " Forked " Your fluffy-giggle Repository
 
-I worked on this after forking your fluffly-giggle repository
+Evans " git cloned " Your fluffy-giggle Repository
