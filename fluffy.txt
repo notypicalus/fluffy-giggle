@@ -4,3 +4,4 @@ touch.coffee
 I forked notypicalus/fluffy-giggle
 I cloned it & edited it 
 I git added, commit -m, pushed the changes
+I went to my forked repository, and clicked 'pull request'
