@@ -1,3 +1,3 @@
-# fluffy-giggle
+# fluffy_giggle
 
 Learning Git
